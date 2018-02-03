@@ -1,0 +1,2 @@
+include ':vanilla-mvp', ':himura', ':dagger-mvp', ':himura-kt', ':kotlin-vanilla-mvp',
+    ':kotlin-dagger-mvp'

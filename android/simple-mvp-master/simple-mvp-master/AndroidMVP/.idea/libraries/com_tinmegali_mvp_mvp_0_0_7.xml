@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.tinmegali.mvp:mvp-0.0.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tinmegali.mvp/mvp/0.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tinmegali.mvp/mvp/0.0.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tinmegali.mvp/mvp/0.0.7/eaa47b462676d764f88f89a6df0ec8102c6b1679/mvp-0.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

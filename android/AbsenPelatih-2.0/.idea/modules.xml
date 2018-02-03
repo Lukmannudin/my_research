@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\ngulik\android\AbsenPelatih-2.0\AbsenPelatih.iml" filepath="D:\ngulik\android\AbsenPelatih-2.0\AbsenPelatih.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbsenPelatih-2.0.iml" filepath="$PROJECT_DIR$/AbsenPelatih-2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\ngulik\android\AbsenPelatih-2.0\app\app.iml" filepath="D:\ngulik\android\AbsenPelatih-2.0\app\app.iml" />
+    </modules>
+  </component>
+</project>
