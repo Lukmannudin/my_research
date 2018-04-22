@@ -33,7 +33,6 @@ import java.util.UUID;
  */
 @Entity(tableName = "tasks")
 public final class Task {
-
     @PrimaryKey
     @NonNull
     @ColumnInfo(name = "entryid")
